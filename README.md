@@ -1,11 +1,12 @@
-- Outline:
+# Learning SpringBoot with JAVA
+## Outline:
     - Learning spring boot for my [[Tencent internship]]
     -  https://github.com/cyu60/learning-springboot
-- Motivation
+## Motivation
     - To learn the basics of [[Spring Boot]], understanding how the framework runs ontop of JAVA
     - Learn how to use [[Spring Boot]] to manipulate [[RESTful API]] for persistence of data
     - Learn about how [[database]] can be used in conjunction to [[Spring Boot]] to create good models
-- Log:
+## Log:
     - [[May 20th, 2021]]
         - Got to work on the basics of spring boot
         - Learned about how to implement the MVC framework in IntelliJ to run a web page on the local browser
